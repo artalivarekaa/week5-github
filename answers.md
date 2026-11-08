@@ -30,3 +30,15 @@
 (b) If there is no license, other people legally cannot copy, modify, or distribute the code. By default all rights are reserved by the author.
 
 (c) I chose the MIT license because it is simple and permissive, allowing others to use and modify the code freely as long as they keep the attribution.
+
+
+
+
+
+
+
+## Task 3
+
+(a) A pull request is a request to merge a branch into another branch (usually main), with a page for review and discussion. Teams use them instead of pushing directly to main so that changes can be reviewed, tested, and discussed before they reach the main codebase, reducing the risk of breaking things.
+
+(b) In step 5, git pull downloaded the merged changes from GitHub and merged them into my local main branch. The difference from git fetch is that git fetch only downloads remote changes without modifying my local branch, while git pull fetches AND merges them into my current branch.
