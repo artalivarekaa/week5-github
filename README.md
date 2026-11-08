@@ -17,3 +17,13 @@ gcc hello.c -o hello
 
 \[Visit GitHub](https://github.com)
 
+
+
+## Usage
+
+To compile and run the program, use these commands:
+
+```bash
+gcc hello.c -o hello
+./hello
+
