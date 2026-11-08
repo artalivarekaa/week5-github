@@ -16,3 +16,17 @@
 
 (c) There are two complete copies of the project history: one on my local computer (the folder `\~/projects/week5-github`) and one on GitHub's server (the remote repository).
 
+
+
+
+
+
+
+
+## Task 2
+
+(a) A README is read by anyone who visits the repository — users, contributors, teachers, employers. It should answer: what the project is, how to install and run it, what files it contains, and where to find more information.
+
+(b) If there is no license, other people legally cannot copy, modify, or distribute the code. By default all rights are reserved by the author.
+
+(c) I chose the MIT license because it is simple and permissive, allowing others to use and modify the code freely as long as they keep the attribution.
