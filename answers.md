@@ -42,3 +42,16 @@
 (a) A pull request is a request to merge a branch into another branch (usually main), with a page for review and discussion. Teams use them instead of pushing directly to main so that changes can be reviewed, tested, and discussed before they reach the main codebase, reducing the risk of breaking things.
 
 (b) In step 5, git pull downloaded the merged changes from GitHub and merged them into my local main branch. The difference from git fetch is that git fetch only downloads remote changes without modifying my local branch, while git pull fetches AND merges them into my current branch.
+
+
+
+
+## Task 4
+
+(Note: As instructed, I completed this task alone by using a branch.)
+
+(a) A fork is a copy of someone else's repository created in your own GitHub account. A clone is a copy of a repository on your local machine. Forking happens on GitHub; cloning happens with git clone. You fork to get your own writable copy of someone else's project, then clone your fork to work on it locally.
+
+(b) You open a pull request instead of pushing straight into the partner's repository because you do not have write access to their repository. A pull request asks the owner to review and merge your changes, which keeps their main branch safe and lets them give feedback.
+
+(c) I learned that reviewing code line by line helps catch small issues and gives useful feedback. Writing a review comment made me think about how to give friendly, constructive suggestions.
